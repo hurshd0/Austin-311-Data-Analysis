@@ -2,7 +2,14 @@
 
 # Exploratory Data Analysis on [City of Austin 311 Calls](https://data.austintexas.gov/Utilities-and-City-Services/311-Unified-Data)
 
+### Usage
 
+- **Option 1:** Launch using the Binder icon
+- **Option 2:** Create a new conda environment and activate it:
+```linux
+   conda env create -f environment.yml
+   conda activate austin_eda
+```
 
 ### Project Decription
 

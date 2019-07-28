@@ -4,7 +4,10 @@ channels:
   - plotly
   - defaults
 dependencies:
-  - jupyter_contrib_nbextensions
+  - python
+  - ipython
+  - ipykernel
+  - jupyter
   - pandas==0.23.4
   - numpy
   - scipy
@@ -22,4 +25,5 @@ dependencies:
   - curl
   - pillow
   - scikit-learn
+  - pymc3
   - pip
