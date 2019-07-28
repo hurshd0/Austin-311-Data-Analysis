@@ -1,0 +1,25 @@
+name: austin_eda
+channels:
+  - conda-forge
+  - plotly
+  - defaults
+dependencies:
+  - jupyter_contrib_nbextensions
+  - pandas==0.23.4
+  - numpy
+  - scipy
+  - statsmodels
+  - matplotlib
+  - geopandas
+  - seaborn
+  - requests
+  - beautifulsoup4
+  - lxml
+  - html5lib
+  - plotly
+  - plotly_express
+  - boto3
+  - curl
+  - pillow
+  - scikit-learn
+  - pip
