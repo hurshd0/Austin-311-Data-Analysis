@@ -26,4 +26,6 @@ dependencies:
   - pillow
   - scikit-learn
   - pymc3
+  - pylint
+  - autopep8
   - pip
