@@ -19,6 +19,7 @@ dependencies:
   - plotly
   - plotly_express
   - boto3
+  - curl
   - pillow
+  - scikit-learn
   - pip
-
