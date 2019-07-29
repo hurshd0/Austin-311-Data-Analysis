@@ -15,6 +15,7 @@ dependencies:
   - matplotlib
   - geopandas
   - seaborn
+  - folium
   - requests
   - beautifulsoup4
   - lxml
