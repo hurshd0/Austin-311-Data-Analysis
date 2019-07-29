@@ -21,12 +21,8 @@ dependencies:
   - html5lib
   - plotly
   - plotly_express
-  - boto3
-  - curl
-  - pillow
+  - geopandas
   - scikit-learn
-  - theano
-  - pymc3
   - pylint
   - autopep8
   - pip
