@@ -13,7 +13,7 @@
 
 ### Project Description
 
-The aim of this EDA is to understand the City of Austin's 311 calls data and find any noticable trends to answer following types of questions:
+The aim of this EDA is to understand the City of Austin's 311 calls data from **2014 to 2019** and find any noticable trends and answer following types of questions:
 
 - Which zipcodes have the most call incidents ?
 - What are major complaints and concerns of Austinites ?
