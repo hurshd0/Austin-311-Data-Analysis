@@ -25,6 +25,7 @@ dependencies:
   - curl
   - pillow
   - scikit-learn
+  - theano
   - pymc3
   - pylint
   - autopep8

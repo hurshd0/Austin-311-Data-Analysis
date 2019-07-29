@@ -7,13 +7,11 @@ import pandas as pd # Data analysis lib
 # Plotting libs
 import matplotlib.pyplot as plt # plotting lib
 import seaborn as sns # matplotlib wrapper plotting lib
-import plotly.plotly as py # interactive low-level plotting lib https://plot.ly/python/
-import plotly.graph_objs as go 
+import plotly.graph_objs as go # interactive low-level plotting lib https://plot.ly/python/
 import plotly_express as px #high-level api wrapper for plotly https://plot.ly/python/plotly-express/#visualize-distributions
 
 # Stat libs
 import random # https://docs.python.org/3.6/library/random.html
-import pymc3 as pm # https://docs.pymc.io/nb_examples/index.html
 from scipy.stats import stats # https://docs.scipy.org/doc/scipy/reference/stats.html
 
 # Import data structures from collections
@@ -46,7 +44,6 @@ def check_versions():
     print('Pandas v{}'.format(pd.__version__))
     print('Matplotlib v{}'.format(mpl.__version__))
     print('Seaborn v{}'.format(sns.__version__))
-    print('PyMC3 v{}'.format(pm.__version__))
 
 # check_versions()
 ###################################################################################################################
