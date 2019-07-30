@@ -123,3 +123,4 @@ venv.bak/
 .gitconfig
 .profile
 raw_data/*
+clean_data/*
