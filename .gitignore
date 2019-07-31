@@ -123,6 +123,6 @@ venv.bak/
 .gitconfig
 .profile
 
-# Remove raw_data
+# Large datasets can't be stored so ignore those folders
 raw_data/*
-
+clean_data/*
