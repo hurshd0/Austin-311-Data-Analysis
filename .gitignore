@@ -122,5 +122,7 @@ venv.bak/
 .bashrc
 .gitconfig
 .profile
+
+# Remove raw_data
 raw_data/*
-clean_data/*
+
