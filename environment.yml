@@ -20,6 +20,7 @@ dependencies:
   - folium
   - requests
   - beautifulsoup4
+  - xlrd
   - lxml
   - html5lib
   - plotly
