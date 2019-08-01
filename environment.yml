@@ -29,4 +29,5 @@ dependencies:
   - scikit-learn
   - pylint
   - autopep8
-  - pip
+  - pip:
+    - keplergl
