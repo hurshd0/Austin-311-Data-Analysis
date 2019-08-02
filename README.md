@@ -49,6 +49,12 @@ The aim of this EDA is to understand the City of Austin's 311 calls data from **
 <img src="imgs/pile_of_scotters.jpg"/>
 </p>
 
+### See how the plague spreads from its inital launch in 2018
+
+<p align="center">
+<img src="visualizations/dockless_complaints.gif"/>
+</p>
+
 - Whatever the city is doing, it's helping reduce the loud music complaints over the years.
 
 <p align="center">
