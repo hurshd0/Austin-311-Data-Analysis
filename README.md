@@ -31,7 +31,7 @@ The aim of this EDA is to understand the City of Austin's 311 calls data from **
 
 - Phase 1: [X] Data Cleaning & Adding Socioeconomic features ![Progress](http://progressed.io/bar/100) 
 - Phase 2: [ ] Explorator Data Analysis & Explanatory Visualizations ![Progress](http://progressed.io/bar/30)
-- Phase 3: [ ] Dashboard app ![Progress](http://progressed.io/bar/0) 
+- Phase 3: [ ] Dashboard app ![Progress](http://progressed.io/bar/1)
 
 ### :mag: Preliminary Findings
 
@@ -40,26 +40,25 @@ The aim of this EDA is to understand the City of Austin's 311 calls data from **
 - Potholes and Traffic light issues plague every city.
 
 <p align="center">
-[<img src="visualizations/top_10_austin_311_calls_complts.png"/>](visualizations/top_10_austin_311_calls_complts.png)
+<img src="visualizations/top_10_austin_311_calls_complts.png"/>
 </p>
 
 - The plague of Dockless mobility vehicle has taken over your city as well. 
 
 <p align="center">
-[<img src="imgs/pile_of_scotters.jpg"/>](imgs/pile_of_scotters.jpg)
+<img src="imgs/pile_of_scotters.jpg"/>
 </p>
 
 - Whatever the city is doing, it's helping reduce the loud music complaints over the years.
 
 <p align="center">
-[<img src="https://i.imgur.com/KSt4M2u.gifv"/>](https://i.imgur.com/KSt4M2u.gif)
+<img src="https://i.imgur.com/KSt4M2u.gifv"/>
 </p>
 
 - Surprisingly, Parks and Rec has been doing damn good job in reducing complaints over the years.
 
 <p align="center">
-[<img src="https://i.imgur.com/cJZ1TC7.png"/>](https://i.imgur.com/cJZ1TC7.png)
-
+<img src="https://i.imgur.com/cJZ1TC7.png"/>
 <img src="https://media.giphy.com/media/3o7TKFXELFFs2roQRG/giphy.gif"/>
 </p>
 
