@@ -15,16 +15,27 @@
 
 The aim of this EDA is to understand the City of Austin's 311 calls data from **2014 to 2019** and find any noticable trends and answer following types of questions:
 
-- Which zipcodes have the most call incidents ?
+
 - What are major complaints and concerns of Austinites ?
 - Which agency/department has the most complaint?
 - Which method was frequenty used to lodge complaints ?
-- Has weather, storm affected types of complaints ?
-- How does the incident vary by year, month, seasons, festivities, etc.. ?
+- Was city sucessfull in reducing major complaints over the years ?
+- How has the major complaints changed over the years ?
+- How does the incident vary by year, month, day ?
+- Which zipcodes have the most call incidents ?
 - Determining if there is any correlations between 311 complaints and socioeconomic factors ?
 - And any other interesting findings
 
+
+#### Phases of Analysis
+
+- Phase 1: 
+
+
+
+
 ### Dataset source
 
-- City of Austin's 311 calls data
-- U.S. Census geo-socioeconomic data
+- [City of Austin's 311 calls data](https://data.austintexas.gov/)
+- [U.S. Census geo-socioeconomic data](https://www.census.gov/programs-surveys/acs/)
+
