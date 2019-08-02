@@ -30,49 +30,8 @@ The aim of this EDA is to understand the City of Austin's 311 calls data from **
 ### :pencil: TODO
 
 - Phase 1: [X] Data Cleaning & Adding Socioeconomic features ![Progress](http://progressed.io/bar/100) 
-- Phase 2: [ ] Explorator Data Analysis & Explanatory Visualizations ![Progress](http://progressed.io/bar/30)
+- Phase 2: [ ] Explorator Data Analysis & Explanatory Visualizations ![Progress](http://progressed.io/bar/25)
 - Phase 3: [ ] Dashboard app ![Progress](http://progressed.io/bar/1)
-
-### :mag: Preliminary Findings
-
-#### - City is plagued with animal problems, ranging from dead animals to loose dog, making Animal Services and Austin Resource recovery them the busiest department. 
-
-#### - Potholes and Traffic light issues plague every city.
-
-<p align="center">
-<img src="visualizations/top_10_austin_311_calls_complts.png"/>
-</p>
-
-#### - The plague of Dockless mobility vehicle has taken over your city as well. 
-
-<p align="center">
-<img src="imgs/pile_of_scotters.jpg"/>
-</p>
-
-### See how the plague spreads from its inital launch in 2018
-
-<p align="center">
-<img src="visualizations/dockless_complaints.gif"/>
-</p>
-
-#### - Loud Noise Complaints
-
-What about those frat parties you ask?
-
-![](https://media.giphy.com/media/l2JefZrpEXqlvNjsA/giphy.gif)
-
-> Whatever the city is doing, it's helping reduce the loud music complaints over the years.
-
-<p align="center">
-<img src="visualizations/loud_music_complaints.gif"/>
-</p>
-
-#### - Surprisingly, Parks and Rec has been doing damn good job in reducing complaints over the years.
-
-<p align="center">
-<img src="https://i.imgur.com/cJZ1TC7.png"/>
-<img src="https://media.giphy.com/media/3o7TKFXELFFs2roQRG/giphy.gif"/>
-</p>
 
 ### Dataset source
 
