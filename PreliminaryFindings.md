@@ -16,7 +16,7 @@ Now its the single most point of contact for Citywide Services and Information h
 #### - City is plagued with animal problems, ranging from dead animals to loose dog, making Animal Services and Austin Resource recovery them the busiest department. 
 
 <p align="center">
-<img src="visualizations/top_10_austin_311_calls_complts.png"/>
+<img src="https://miro.medium.com/max/700/1*7ttdU54nH__69I6zAp6HGw.png"/>
 </p>
 
 #### - Not so surprisingly Potholes and Traffic light issues plague every city.
