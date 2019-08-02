@@ -41,7 +41,7 @@ Early Morning, and Late Afternoons
 
 ##### While we are on it let's visualize calls yearly?
 
-![](https://i.imgur.com/Ey8Ky4z.gif)
+![](visualizations/2019-08-01_11-20-31.gif)
 
 ## Now onto the most interesting findings of all....
 
