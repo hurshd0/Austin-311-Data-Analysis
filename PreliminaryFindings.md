@@ -43,7 +43,11 @@ Early Morning, and Late Afternoons
 
 ## Now onto the most interesting findings of all....
 
-#### Love it or hate it here, you gotta admit they are at least fun to ride Weeeeee! Scotters 
+### Did you say Scooter in a Tree ?
+
+![](https://i.imgur.com/Y8fQiiw.png)
+
+#### Love it or hate it here, you gotta admit they are at least fun to ride Weeeeee! Scooters 
 
 ![](https://media.giphy.com/media/kBkHpyBA3zwZLCJMc8/giphy.gif)
 
