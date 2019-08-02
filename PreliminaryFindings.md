@@ -6,8 +6,6 @@
 
 ### Background
 
-Background
-
 In 2001, the City of Austin began using 311 service for Police non-emergency calls. This helped reduce the number of calls to 911, which later got expanded to include more city services.
 
 Now its the single most point of contact for Citywide Services and Information hub. Since then Austinites have reported from port holes, to lost dog, traffic light issues, annoying neighbors, etc… The data set is rich in amount of information it carries, it has incident date time, department that belongs to, status update, and geolocation. With such details, the data gets refreshed every half-hour.
