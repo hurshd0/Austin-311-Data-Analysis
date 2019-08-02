@@ -52,7 +52,7 @@ The aim of this EDA is to understand the City of Austin's 311 calls data from **
 - Whatever the city is doing, it's helping reduce the loud music complaints over the years.
 
 <p align="center">
-<img src="https://i.imgur.com/KSt4M2u.gif" height=500 width=500/>
+<img src="visualizations/loud_music_complaints.gif" height=500 width=500/>
 </p>
 
 - Surprisingly, Parks and Rec has been doing damn good job in reducing complaints over the years.
