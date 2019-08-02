@@ -18,16 +18,11 @@ dependencies:
   - shapely
   - seaborn
   - folium
-  - requests
-  - beautifulsoup4
   - xlrd
-  - lxml
-  - html5lib
   - plotly
   - plotly_express
   - geopandas
   - scikit-learn
   - pylint
   - autopep8
-  - pip:
-    - keplergl
+  - pip
