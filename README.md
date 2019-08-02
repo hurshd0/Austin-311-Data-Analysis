@@ -13,29 +13,50 @@
 
 ### Project Description
 
-The aim of this EDA is to understand the City of Austin's 311 calls data from **2014 to 2019** and find any noticable trends and answer following types of questions:
+The aim of this EDA is to understand the City of Austin's 311 calls data from **2014 to 2019** and find any noticeable trends and answer the following types of questions:
 
 
-- What are major complaints and concerns of Austinites ?
+- What are major complaints and concerns of Austinites?
 - Which agency/department has the most complaint?
-- Which method was frequenty used to lodge complaints ?
-- Was city sucessfull in reducing major complaints over the years ?
-- How has the major complaints changed over the years ?
-- How does the incident vary by year, month, day ?
-- Which zipcodes have the most call incidents ?
-- Determining if there is any correlations between 311 complaints and socioeconomic factors ?
+- Which method was frequently used to lodge complaints?
+- Was city successful in reducing major complaints over the years?
+- How has the major complaints changed over the years?
+- How does the incident vary by year, month, day?
+- Which zip codes have the most call incidents?
+- Determining if there are any correlations between 311 complaints and socioeconomic factors?
 - And any other interesting findings
 
 
-#### Phases of Analysis
+### :pencil: TODO
 
-- Phase 1: 
+- Phase 1: [X] Data Cleaning & Adding Socioeconomic features ![Progress](http://progressed.io/bar/100) 
+- Phase 2: [ ] Explorator Data Analysis & Explanatory Visualizations ![Progress](http://progressed.io/bar/30)
+- Phase 3: [ ] Dashboard app ![Progress](http://progressed.io/bar/0) 
 
+### :mag: Preliminary Findings
 
+- City is plagued with animal problems, ranging from dead animals to loose dog, making Animal Services and Austin Resource recovery them the busiest department. 
+
+- Potholes and Traffic light issues plague every city.
+
+[<img src="visualizations/top_10_austin_311_calls_complts.png" align="center" width=600 height=600/>](visualizations/top_10_austin_311_calls_complts.png)
+
+- The plague of Dockless mobility vehicle has taken over your city as well. 
+
+[<img src="imgs/pile_of_scotters.jpg" align="center" width=600 height=600/>](imgs/pile_of_scotters.jpg)
+
+- Whatever the city is doing, it's helping reduce the loud music complaints over the years.
+
+[<img src="https://i.imgur.com/KSt4M2u.gif" align="center"  width=600 height=600/>](https://i.imgur.com/KSt4M2u.gif)
+
+- Surprisingly, Parks and Rec has been doing damn good job in reducing complaints over the years.
+
+[<img src="https://i.imgur.com/cJZ1TC7.png" align="center" width=600 height=600/>](https://i.imgur.com/cJZ1TC7.png)
+
+<img src="https://media.giphy.com/media/3o7TKFXELFFs2roQRG/giphy.gif" align="center"/>
 
 
 ### Dataset source
 
 - [City of Austin's 311 calls data](https://data.austintexas.gov/)
 - [U.S. Census geo-socioeconomic data](https://www.census.gov/programs-surveys/acs/)
-
