@@ -31,7 +31,7 @@ The aim of this EDA is to understand the City of Austin's 311 calls data from **
 
 - Phase 1: [X] Data Cleaning & Adding Socioeconomic features ![Progress](http://progressed.io/bar/100) 
 - Phase 2: [ ] Explorator Data Analysis & Explanatory Visualizations ![Progress](http://progressed.io/bar/25)
-- Phase 3: [ ] Dashboard app ![Progress](http://progressed.io/bar/1)
+- Phase 3: [ ] Dashboard app ![Progress](http://progressed.io/bar/2)
 
 ### Dataset source
 
